@@ -1,6 +1,6 @@
 extern crate modtestlib;
 
-use modtestlib::Widget;
+use modtestlib::widgets::Widget;
 
 fn main() {
     let widget = Widget{};
